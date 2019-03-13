@@ -1,2 +1,2 @@
-# R_D_project
-Research and Development Project( Smart Dining Hall)
+# 研究与开发实践
+### Research and Development Project( Smart Dining Hall)
